@@ -1,0 +1,28 @@
+{
+    "mcpServers":{
+        "mcp_monedas":{
+            "command":"node",
+            "args":[
+                "D:\\MCP_Curso\\MCP_Monedas\\main.js"
+            ]
+        },
+        "pokemon_mcp":{
+            "command":"node",
+            "args":[
+                "D:\\MCP_Curso\\MCP_Pokemon\\main.js"
+            ]
+        },
+        "mcp_clima":{
+            "command":"node",
+            "args":[
+                "D:\\MCP_Curso\\MCP_Clima\\main.js"
+            ]
+        },
+        "clima_general":{
+            "command":"node",
+            "args":[
+                "D:\\MCP_Curso\\MCP_ClimaGeneral\\main.js"
+            ]
+        }
+    }
+}
